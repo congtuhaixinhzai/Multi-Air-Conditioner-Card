@@ -170,7 +170,7 @@ Cả 4 chế độ cũng **giữ animation icon sau khi chọn** (xoay, nhấp n
 
 > Nếu nút không hoạt động:
 > **HACS → Frontend → ⋮ → Custom repositories**
-> → URL: `https://github.com/doanlong1412/multi-air-conditioner-card` → Type: **Dashboard** → Add
+> → URL: `https://github.com/congtuhaixinhzai/Multi-Air-Conditioner-Card` → Type: **Dashboard** → Add
 
 **Bước 2:** Tìm **Multi Air Conditioner Card** → **Install**
 
@@ -180,7 +180,7 @@ Cả 4 chế độ cũng **giữ animation icon sau khi chọn** (xoay, nhấp n
 
 ### Cách 2 — Thủ công
 
-1. Tải [`multi-air-conditioner-card.js`](https://github.com/doanlong1412/multi-air-conditioner-card/releases/latest)
+1. Tải [`multi-air-conditioner-card.js`](https://github.com/congtuhaixinhzai/Multi-Air-Conditioner-Card/releases/latest)
 2. Sao chép vào `/config/www/multi-air-conditioner-card.js`
 3. Vào **Settings → Dashboards → Resources** → **Add resource**:
    ```

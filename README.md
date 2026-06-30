@@ -170,7 +170,7 @@ All four modes also **keep their icon animation running** after selection (spin,
 
 > If the button doesn't work, add manually:
 > **HACS → Frontend → ⋮ → Custom repositories**
-> → URL: `https://github.com/doanlong1412/multi-air-conditioner-card` → Type: **Dashboard** → Add
+> → URL: `https://github.com/congtuhaixinhzai/Multi-Air-Conditioner-Card` → Type: **Dashboard** → Add
 
 **Step 2:** Search for **Multi Air Conditioner Card** → **Install**
 
@@ -180,7 +180,7 @@ All four modes also **keep their icon animation running** after selection (spin,
 
 ### Option 2 — Manual
 
-1. Download [`multi-air-conditioner-card.js`](https://github.com/doanlong1412/multi-air-conditioner-card/releases/latest)
+1. Download [`multi-air-conditioner-card.js`](https://github.com/congtuhaixinhzai/Multi-Air-Conditioner-Card/releases/latest)
 2. Copy to `/config/www/multi-air-conditioner-card.js`
 3. Go to **Settings → Dashboards → Resources** → **Add resource**:
    ```
