@@ -1,0 +1,7 @@
+{
+  "name": "Multi Air Conditioner Card",
+  "description": "Multi-room air conditioner card with live sensor data, full editor and 10-language support.",
+  "render_readme": true,
+  "content_in_root": true,
+  "filename": "multi-air-conditioner-card.js"
+}
