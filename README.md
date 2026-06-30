@@ -166,7 +166,7 @@ All four modes also **keep their icon animation running** after selection (spin,
 
 **Step 1:** Add Custom Repository to HACS:
 
-[![Open HACS Repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=doanlong1412&repository=multi-air-conditioner-card&category=plugin)
+[![Open HACS Repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=congtuhaixinhzai&repository=multi-air-conditioner-card&category=plugin)
 
 > If the button doesn't work, add manually:
 > **HACS → Frontend → ⋮ → Custom repositories**

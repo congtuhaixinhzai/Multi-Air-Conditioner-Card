@@ -166,7 +166,7 @@ Cả 4 chế độ cũng **giữ animation icon sau khi chọn** (xoay, nhấp n
 
 **Bước 1:** Thêm Custom Repository vào HACS:
 
-[![Open HACS Repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=doanlong1412&repository=multi-air-conditioner-card&category=plugin)
+[![Open HACS Repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=congtuhaixinhzai&repository=multi-air-conditioner-card&category=plugin)
 
 > Nếu nút không hoạt động:
 > **HACS → Frontend → ⋮ → Custom repositories**
