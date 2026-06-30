@@ -28,4 +28,4 @@ Xem hướng dẫn đầy đủ tại / See full instructions at:
 
 ---
 
-Designed by **[@doanlong1412](https://github.com/doanlong1412)** 🇻🇳
+Designed by **[congtuhaixinhzai](https://github.com/congtuhaixinhzai)** 🇻🇳

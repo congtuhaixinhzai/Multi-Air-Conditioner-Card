@@ -1,6 +1,6 @@
 /**
  * Multi Air Conditioner Card
- * v1.9.1 Designed by @doanlong1412 from 🇻🇳 Vietnam
+ * v1.9.1 Designed by congtuhaixinhzai from 🇻🇳 Vietnam
  * HACS-compatible Web Component
  *
  * ─── What's new in v1.9 ─────────────────────────────────────────────────
@@ -7197,7 +7197,7 @@ class MultiAcCardEditor extends HTMLElement {
 </style>
 <div class="editor">
   <div class="credit">❄️ <strong>Multi Air Conditioner Card</strong>
-    <span style="color:var(--secondary-text-color);font-weight:400;">v1.9.1 Designed by @doanlong1412 from 🇻🇳 Vietnam</span>
+    <span style="color:var(--secondary-text-color);font-weight:400;">v1.9.1 Designed by congtuhaixinhzai from 🇻🇳 Vietnam</span>
   </div>
   <div style="display:flex;gap:8px;margin:6px 0 10px;">
     <!-- TikTok button (compact) -->
@@ -8052,7 +8052,7 @@ window.customCards = window.customCards || [];
 window.customCards.push({
   type: 'multi-air-conditioner-card',
   name: 'Multi Air Conditioner Card',
-  description: 'Multi-room air conditioner card with live sensor data, full editor and 10-language support. By @doanlong1412',
+  description: 'Multi-room air conditioner card with live sensor data, full editor and 10-language support. By congtuhaixinhzai',
   preview: true,
 });
 

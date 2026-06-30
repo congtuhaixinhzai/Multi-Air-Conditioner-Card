@@ -498,4 +498,4 @@ If you find this useful, please ⭐ **star the repo**!
 
 ## 🙏 Credits
 
-Designed and developed by **[@doanlong1412](https://github.com/doanlong1412)** from 🇻🇳 Vietnam.
+Designed and developed by **[congtuhaixinhzai](https://github.com/congtuhaixinhzai)** from 🇻🇳 Vietnam.

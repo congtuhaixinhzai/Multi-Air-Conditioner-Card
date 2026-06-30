@@ -497,4 +497,4 @@ Nếu bạn thấy hữu ích, hãy ⭐ **star repo** nhé!
 
 ## 🙏 Credits
 
-Thiết kế và phát triển bởi **[@doanlong1412](https://github.com/doanlong1412)** từ 🇻🇳 Việt Nam.
+Thiết kế và phát triển bởi **[congtuhaixinhzai](https://github.com/congtuhaixinhzai)** từ 🇻🇳 Việt Nam.
